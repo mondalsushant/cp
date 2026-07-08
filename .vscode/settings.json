@@ -1,0 +1,43 @@
+// SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
+//
+// SPDX-License-Identifier: MIT
+
+{
+
+  // Prevent VS Code from overriding tabSize by guessing from file content.
+  "editor.detectIndentation": false,
+
+  "editor.fontFamily": "'Terminus (TTF)', 'Terminus', monospace",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+
+  // No hard tabs anywhere.
+  "editor.insertSpaces": true,
+
+  // Max character length for any line in this repository is 100. Wrap to the next line, do not
+  // cross the vertical line.
+  "editor.rulers": [100],
+
+  // Default indetation is 2 spaces.
+  "editor.tabSize": 2,
+
+  // Only LF, no CRLF.
+  "files.eol": "\n",
+
+  // Every file ends with exactly one newline.
+  // Refs: POSIX
+  "files.insertFinalNewline": true,
+
+  // Remove extra blank lines beyond the single final newline.
+  "files.trimFinalNewlines": true,
+
+  // Remove trailing whitespace on save.
+  "files.trimTrailingWhitespace": true,
+
+  "terminal.integrated.fontFamily": "'Terminus (TTF)', 'Terminus', monospace",
+  "terminal.integrated.fontSize": 14,
+  "[jsonc]": {
+    "editor.formatOnSave": false
+  },
+}

@@ -1,0 +1,15 @@
+// SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
+//
+// SPDX-License-Identifier: MIT
+
+{
+  "recommendations": [
+    "chrisjsewell.myst-tml-syntax",
+    "lextudio.restructuredtext",
+    "ms-vscode.cpptools",
+    "ms-vscode.makefile-tools",
+    "streetsidesoftware.code-spell-checker",
+    "swyddfa.esbonio",
+    "trond-snekvik.simple-rst",
+  ],
+}
