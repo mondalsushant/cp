@@ -11,10 +11,24 @@
   // Ignore these words during spell-check. Maintain this list in alphabetical order and use
   // lowercase only.
   "words": [
+    "antti",
+    "clrs",
+    "codeforces",
+    "cses",
+    "halim",
+    "icpc",
+    "kactl",
+    "kattis",
+    "laaksonen",
+    "learncpp",
+    "maxx",
     "mondal",
     "pycache",
     "pytest",
+    "skiena",
+    "spoj",
     "sushant",
+    "usaco",
     "venv",
   ],
 
