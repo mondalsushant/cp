@@ -4,12 +4,8 @@
 
 {
   "recommendations": [
-    "chrisjsewell.myst-tml-syntax",
-    "lextudio.restructuredtext",
     "ms-vscode.cpptools",
     "ms-vscode.makefile-tools",
     "streetsidesoftware.code-spell-checker",
-    "swyddfa.esbonio",
-    "trond-snekvik.simple-rst",
   ],
 }

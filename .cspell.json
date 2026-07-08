@@ -12,7 +12,10 @@
   // lowercase only.
   "words": [
     "mondal",
+    "pycache",
+    "pytest",
     "sushant",
+    "venv",
   ],
 
 }
