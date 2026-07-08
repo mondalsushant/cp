@@ -1,0 +1,12 @@
+// SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
+//
+// SPDX-License-Identifier: MIT
+
+{
+  "recommendations": [
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.makefile-tools",
+    "streetsidesoftware.code-spell-checker",
+  ],
+}

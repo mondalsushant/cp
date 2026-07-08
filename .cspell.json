@@ -1,0 +1,35 @@
+// SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
+//
+// SPDX-License-Identifier: MIT
+//
+// Configuration file for "streetsidesoftware.code-spell-checker" VS Code extension.
+
+{
+  "version": "0.2",
+  "language": "en-US",
+
+  // Ignore these words during spell-check. Maintain this list in alphabetical order and use
+  // lowercase only.
+  "words": [
+    "antti",
+    "clrs",
+    "codeforces",
+    "cses",
+    "halim",
+    "icpc",
+    "kactl",
+    "kattis",
+    "laaksonen",
+    "learncpp",
+    "maxx",
+    "mondal",
+    "pycache",
+    "pytest",
+    "skiena",
+    "spoj",
+    "sushant",
+    "usaco",
+    "venv",
+  ],
+
+}
