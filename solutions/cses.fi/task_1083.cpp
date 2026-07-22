@@ -53,5 +53,5 @@ int main()
   }
   long long missing_num;
   missing_num = sum_expected - sum_actual;
-  cout << missing_num;
+  cout << missing_num << "\n";
 }

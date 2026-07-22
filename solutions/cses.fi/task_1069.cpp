@@ -56,5 +56,5 @@ int main()
       max_len = cur_len;
     }
   }
-  cout << max_len;
+  cout << max_len << "\n";
 }
