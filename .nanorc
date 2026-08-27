@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
+#
+# SPDX-License-Identifier: MIT
+
+# For snipping trailing blanks when you save a file.
+# Refs: `cat /etc/nanorc`
+bind ^S "{execute}| sed 's/\s\+$//' {enter}{savefile}" main
+
+# Enable automatic indentation when hitting `Return`.
+set autoindent
+
+set guidestripe 100
+set linenumbers
+
+# Convert pressed tabs into spaces.
+set tabstospaces
+
+# C
+# =
+# Include C syntax highlighting (built-in to nano).
+include "/usr/share/nano/c.nanorc"
+extendsyntax c tabgives "        "  # 8 spaces
