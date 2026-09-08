@@ -2,12 +2,11 @@
  * SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
  *
  * SPDX-License-Identifier: MIT
+ *
+ * Dr. Chuck @ freeCodeCamp.org YouTube: String Input (cc_02_03.c)
  */
 
 #include <stdio.h>
-
-/* String Input */
-
 int main(void)
 {
         /* Define a char array to store a 256-character string. */

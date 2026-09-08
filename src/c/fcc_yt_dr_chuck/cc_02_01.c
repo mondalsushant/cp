@@ -2,12 +2,11 @@
  * SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
  *
  * SPDX-License-Identifier: MIT
+ *
+ * Dr. Chuck @ freeCodeCamp.org YouTube: Output (cc_02_01.c)
  */
 
 #include <stdio.h>
-
-/* Output */
-
 int main(void)
 {
         printf("Hello, world!\n");

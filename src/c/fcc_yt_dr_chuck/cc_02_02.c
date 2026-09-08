@@ -2,12 +2,11 @@
  * SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
  *
  * SPDX-License-Identifier: MIT
+ *
+ * Dr. Chuck @ freeCodeCamp.org YouTube: Number Input (cc_02_02.c)
  */
 
 #include <stdio.h>
-
-/* Number Input */
-
 int main(void)
 {
         int num, sq;

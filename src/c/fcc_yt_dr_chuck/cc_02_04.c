@@ -2,12 +2,11 @@
  * SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
  *
  * SPDX-License-Identifier: MIT
+ *
+ * Dr. Chuck @ freeCodeCamp.org YouTube: Line Input (cc_02_04.c)
  */
 
 #include <stdio.h>
-
-/* Line Input */
-
 int main(void)
 {
         char line[1024];
