@@ -12,8 +12,7 @@ int main(void)
         int num, sq;
         printf("Enter the integer to be squared: ");
 
-        /* `&` is used for specifying the variable's address, not the variable's
-         * value itself. */
+        /* `&` is used for specifying the variable's address, not the variable's value itself. */
         scanf("%d", &num);
 
         sq = num * num;

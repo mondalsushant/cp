@@ -1,5 +1,7 @@
 -- SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
 --
+-- SPDX-License-Identifier: MIT
+--
 -- Run `mkdir -p ~/.config/nvim && echo 'vim.opt.exrc = true' > ~/.config/nvim/init.lua` and: `v`
 -- to view -> `:trust` to trust this config file.
 

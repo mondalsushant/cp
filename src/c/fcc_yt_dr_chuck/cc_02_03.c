@@ -15,10 +15,9 @@ int main(void)
         printf("Enter your name: ");
 
         /**
-         * `100` @ `%100s`: Allow 100 chars of input at max.
-         * `name` and not `&name`: When you don't pass the exact index of the
-         * arr, you are passing the address of the beginning of the arr. That is
-         * why you don't require `&`.
+         * `100` @ `%100s`: Allow 100 chars of input at max. `name` and not `&name`: When you do
+	 * not pass the exact index of the array, you are passing the address of the beginning of
+	 * the array. That is why you don't require `&`.
          */
         scanf("%100s", name);
 

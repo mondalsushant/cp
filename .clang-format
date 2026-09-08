@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
+#
+# SPDX-License-Identifier: MIT
+
 BasedOnStyle: LLVM
 
 # Function braces on the next line.
@@ -5,6 +9,7 @@ BreakBeforeBraces: Custom
 BraceWrapping:
   AfterFunction: true
 
+ColumnLimit: 100
 IndentWidth: 8
 TabWidth: 8
 UseTab: Never
