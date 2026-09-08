@@ -8,7 +8,8 @@
 
 /* Output */
 
-int main() {
+int main(void)
+{
         printf("Hello, world!\n");
 
         /* Use `%` to embed stuff. */
@@ -16,4 +17,5 @@ int main() {
         printf("This is an embedded floating-point number: %.1f\n", 2.3);
         printf("This is an embedded string: %s\n", "Peekaboo!");
 
-};
+        return 0;
+}

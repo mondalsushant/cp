@@ -8,20 +8,21 @@
 
 /* String Input */
 
-int main() {
-
-        /* Define a char arr (type: `char`) to store a 256-char string. */
+int main(void)
+{
+        /* Define a char array to store a 256-character string. */
         char name[256];
 
         printf("Enter your name: ");
 
         /**
          * `100` @ `%100s`: Allow 100 chars of input at max.
-         * `name` and not `&name`: When you don't pass the exact index of the arr, you are passing
-         *                         the address of the beginning of the arr. That is why you don't
-         *                         require `&`.
+         * `name` and not `&name`: When you don't pass the exact index of the
+         * arr, you are passing the address of the beginning of the arr. That is
+         * why you don't require `&`.
          */
         scanf("%100s", name);
 
-        printf("Hello, %s!\n", name);	
+        printf("Hello, %s!\n", name);
+        return 0;
 }

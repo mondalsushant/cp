@@ -1,4 +1,10 @@
 BasedOnStyle: LLVM
+
+# Function braces on the next line.
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+
 IndentWidth: 8
 TabWidth: 8
 UseTab: Never

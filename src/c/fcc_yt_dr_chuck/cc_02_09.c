@@ -8,7 +8,8 @@
 
 /* Line Input (safe) */
 
-int main() {
+int main(void)
+{
         char line[1024];
         printf("Enter a line for testing `stdout`: ");
 
@@ -21,8 +22,10 @@ int main() {
          * here. Also, the `\n` supplied @ `stdin` is included by `fgets()`, so
          * do not use another `\n` when printing the line.
          */
-        fgets(line, 1024, stdin);
+        fgets(line, sizeof line, stdin);
 
         /* Use `%s` and not `%s\n` because of the above instruction. */
         printf("Line: %s", line);
+
+        return 0;
 }
