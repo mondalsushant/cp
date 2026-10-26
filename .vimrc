@@ -1,6 +1,6 @@
 " SPDX-FileCopyrightText: (C) 2026 Sushant Mondal <contact@sushantmondal.com>
 "
-" Add `set exrc` and `set secure` @ `~/.vimrc` to use this Vim configuration.
+" Add `set exrc` and `set secure` @ `~/.vimrc` to use this VIM configuration.
 
 augroup RemoveTrailingWhitespace
   autocmd!
