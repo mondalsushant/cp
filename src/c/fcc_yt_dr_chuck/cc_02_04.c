@@ -1,5 +1,5 @@
 /**
- * SPDX-FileCopyrightText: © 2026 Sushant Mondal <contact@sushantmondal.com>
+ * SPDX-FileCopyrightText: (C) 2026 Sushant Mondal <contact@sushantmondal.com>
  *
  * SPDX-License-Identifier: MIT
  *
