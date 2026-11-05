@@ -17,6 +17,5 @@ int main(void)
 
         sq = num * num;
         printf("The square of the given integer is '%d'.\n", sq);
-
         return 0;
 }
